@@ -1,2 +1,2 @@
 # .github
-*Community health files for the @igteteam organisation*
+*Community health files for the [@igteteam](https://github.com/igteteam) organisation*
