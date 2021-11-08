@@ -2,7 +2,7 @@
 
 ### Hey there, we're Team Ignite.
 
-Comprised of the following members, We are what makes Team Ignite possible.
+Comprised of the following members, We are what makes Team Ignite a derivative place of work.
 
 #### [XXRT5](https://github.com/xXRT5)
 - Team Lead
