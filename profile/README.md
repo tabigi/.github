@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/67547519/139862564-4bb223b1-da96-42e9-98aa-ac37a979d3d1.png)
+![banner](https://user-images.githubusercontent.com/67547519/142937164-e1560760-766b-439a-8c2b-d03767b3ef0d.png)
 
 ### Hey there, we're Team Ignite.
 
@@ -12,6 +12,6 @@ Comprised of the following members, We are what makes Team Ignite a derivative p
 - Team Manager
 - Ignite Developer
 
-#### [Yaya](https://github.com/yayyaa)
+#### [Zaya](https://github.com/yayyaa)
 - Head of Ignite Staff
 - Team Helper
