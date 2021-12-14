@@ -1,4 +1,4 @@
-![banner](https://user-images.githubusercontent.com/67547519/142937164-e1560760-766b-439a-8c2b-d03767b3ef0d.png)
+![banner](https://user-images.githubusercontent.com/67547519/146095175-141144d3-bf52-48f5-b18b-fef875053d71.png)
 
 ### Hey there, we're Team Ignite.
 
