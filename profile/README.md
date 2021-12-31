@@ -4,7 +4,7 @@
 
 Comprised of the following members, We are what makes Team Ignite a derivative place of work.
 
-#### [XXRT5](https://github.com/xXRT5)
+#### [aromo](https://github.com/aroaromoro)
 - Team Lead
 - Ignite Developer and Designer
 
