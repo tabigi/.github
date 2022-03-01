@@ -12,6 +12,6 @@ Comprised of the following members, We are what makes Team Ignite a derivative p
 - Team Manager
 - Ignite Developer
 
-#### [Zaya](https://github.com/zayyaa)
+#### [Yaya](https://github.com/yyayaa)
 - Head of Ignite Staff
 - Team Helper
