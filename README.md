@@ -1,2 +1,2 @@
-# .github
-*Community health files for the [@igteteam](https://github.com/igteteam) organisation*
+# Display and health
+*Public health files for the [Team Ignite](https://github.com/igteteam) organisation*
