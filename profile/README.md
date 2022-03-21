@@ -3,7 +3,7 @@
 
 ### Hey there, we're Team Ignite.
 
-Comprised of the following members, We are what makes Team Ignite a derivative place of work.
+Comprised of the following members, we are what makes Team Ignite a derivative place of creation.
 
 #### [aromo](https://github.com/aroaromoro)
 - Team Lead
