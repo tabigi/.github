@@ -1,18 +1,13 @@
-![banner](https://user-images.githubusercontent.com/67547519/159142591-ada451be-88af-4dd2-9be2-3d1df9d62c4d.png)
+![banner](https://user-images.githubusercontent.com/67547519/168180645-8babcead-38e4-4015-8095-d5021c2dc00c.png)
 
+### We are Tabigi.
 
-### Hey there, we're Team Ignite.
-
-Comprised of the following members, we are what makes Team Ignite a derivative place of creation.
-
-#### [aromo](https://github.com/aroaromoro)
+#### [alkie](https://github.com/alkiiie)
 - Team Lead
-- Ignite Developer and Designer
 
 #### [Outlandish](https://github.com/gitlandish)
 - Team Manager
-- Ignite Developer
 
 #### [Yaya](https://github.com/yyayaa)
-- Head of Ignite Staff
-- Team Helper
+- Management and organisation
+- Services management
