@@ -1,13 +1,16 @@
-![banner](https://user-images.githubusercontent.com/67547519/168180645-8babcead-38e4-4015-8095-d5021c2dc00c.png)
+![banner](https://user-images.githubusercontent.com/67547519/206933567-0f3d7b7c-7ba4-4827-800f-304762cd608d.png)
 
-### We are Tabigi.
+### tabigi - software, design, logic - polylogical team
 
 #### [alkie](https://github.com/alkiiie)
-- Team Lead
+- team lead
+- project management / organisation
+- design/art curator
 
-#### [Outlandish](https://github.com/gitlandish)
-- Team Manager
+#### [outlandish](https://github.com/gitlandish)
+- team management
+- localisation organisation
 
-#### [Yaya](https://github.com/yyayaa)
-- Management and organisation
-- Services management
+#### [yaya](https://github.com/yyayaa)
+- internal resources allocation
+- core team head
