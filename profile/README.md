@@ -14,3 +14,6 @@
 #### [yaya](https://github.com/yyayaa)
 - internal resources allocation
 - core team head
+
+---
+**looking for help?** get in touch with your contact. tabigi cannot provide unsolicited direct assistance.
